@@ -11,8 +11,8 @@ title                    : "Juan M. Báez / Acerca de mi"
 title_separator          : "-"
 name                     : &name "Juan Manuel Báez Cano"
 description              : &description "Economista, Maestrando en UDESA"
-url                      : https://juanbaez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https:/JUANMBAEZ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "JUANMBAEZ/juanbaez.github.io"
 teaser                   : "foto.jpg"
 breadcrumbs              : false # true, false (default)
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "econ.jmbc@gmail.com"
   generatedFields:
     date:
       type               : "date"
