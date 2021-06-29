@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Paraguay"
-title                    : "Juan M. Báez / Acerca de mi"
+title                    : "Juan Manuel Báez / Acerca de mi"
 title_separator          : "-"
 name                     : &name "Juan Manuel Báez Cano"
 description              : &description "Economista, Maestrando en UDESA"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Juan M.Báez"
-  avatar           : "photo.jpg"
+  avatar           : "profile.png"
   bio              : "Economista, Maestrando en UDESA"
   location         : "Asuncion-Paraguay"
   employer         :
