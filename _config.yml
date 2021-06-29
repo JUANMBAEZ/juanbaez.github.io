@@ -14,7 +14,7 @@ description              : &description "Economista, Maestrando en UDESA"
 url                      : https:/JUANMBAEZ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "JUANMBAEZ/juanbaez.github.io"
-teaser                   : "foto.jpg"
+teaser                   : "photo.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Juan M.Báez"
-  avatar           : "foto.jpg"
+  avatar           : "photo.jpg"
   bio              : "Economista, Maestrando en UDESA"
   location         : "Asuncion-Paraguay"
   employer         :
